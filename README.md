@@ -1,1 +1,1 @@
-Urgh, I hate whe repos don't have a README
+Urgh, I hate when repos don't have a README
